@@ -19,7 +19,7 @@ This project includes three report pages — **Dashboard**, **Month-To-Date (MTD
 |------|-------------|
 | **Dashboard** | ![Dashboard](dashboard.png) |
 | **MTD Report** | ![MTD Report](MTD Report.png) |
-| **Same Period Last Year** | ![SPLY Report](./screenshots/mobile_sply_report.png) |
+| **Same Period Last Year** | ![SPLY Report](Same period last year.png) |
 
 *(Each page offers unique insights into mobile sales performance.)*
 
