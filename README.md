@@ -17,7 +17,7 @@ This project includes three report pages — **Dashboard**, **Month-To-Date (MTD
 
 | Page | Screenshot |
 |------|-------------|
-| **Dashboard** | ![Dashboard](./screenshots/mobile_dashboard.png) |
+| **Dashboard** | ![Dashboard](dashboard.png) |
 | **MTD Report** | ![MTD Report](./screenshots/mobile_mtd_report.png) |
 | **Same Period Last Year** | ![SPLY Report](./screenshots/mobile_sply_report.png) |
 
