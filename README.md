@@ -17,10 +17,6 @@ This project includes three report pages — **Dashboard**, **Month-To-Date (MTD
 
 
  **Dashboard**  ![Dashboard](dashboard.png) |
- **MTD Report**  ![MTD Report](MTD Report.png) |
- **Same Period Last Year**  ![SPLY Report](Same period last year.png) |
-
-*(Each page offers unique insights into mobile sales performance.)*
 
 ### 2️⃣ MTD Report (Month-To-Date)  
 - Shows **current month’s cumulative sales** performance  
